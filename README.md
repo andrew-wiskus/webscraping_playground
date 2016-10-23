@@ -1,5 +1,4 @@
-# github30DayChallenge
-:wink:
-SOON TO BE A SUPER SWAG APP!
+# phantomjs
+on my way to becoming a regex ninja
 
 :)
